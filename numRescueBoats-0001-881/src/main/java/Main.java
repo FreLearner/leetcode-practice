@@ -2,20 +2,18 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        int[] people = {6,3,5,6,2,3};
-        int limit = 6;
+        int[] people = {3,5,3,4};
+        int limit = 5;
         Arrays.sort(people);
-        int plen = people.length;
-        int seprate = (plen)/2;
-        int res = (plen+1)/2;
-        for (int i = seprate-1; i >= 0; i--) {
-            if(people[i]+people[seprate]<=limit){
-                seprate++;
+        int max = people.length-1;
+        int res = 1;
+        int min = 0;
+        while (min <= max) {
+            if(people[min]+people[max] <= limit){
+                min++;
             }
-            else {
-                res = res+1;
-                seprate--;
-            }
+            max--;
+            res++;
         }
         System.out.println(res);
     }
