@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="MedianFinder-0003-295" />
         <module name="numRescueBoats-0001-881" />
         <module name="twoSum-0002-1" />
       </profile>
