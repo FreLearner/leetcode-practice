@@ -9,6 +9,9 @@
         <module name="MedianFinder-0003-295" />
         <module name="numRescueBoats-0001-881" />
         <module name="twoSum-0002-1" />
+        <module name="runningSum-0004-1480" />
+        <module name="addTwoNumbers-0005-2" />
+        <module name="sumOddLengthSubarrays-0006-1588" />
       </profile>
     </annotationProcessing>
   </component>
