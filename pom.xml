@@ -15,6 +15,7 @@
         <module>runningSum-0004-1480</module>
         <module>addTwoNumbers-0005-2</module>
         <module>sumOddLengthSubarrays-0006-1588</module>
+        <module>pickIndex-0007-528</module>
     </modules>
 
     <properties>

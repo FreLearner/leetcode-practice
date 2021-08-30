@@ -6,8 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="MedianFinder-0003-295" />
         <module name="numRescueBoats-0001-881" />
+        <module name="pickIndex-0007-528" />
+        <module name="MedianFinder-0003-295" />
         <module name="twoSum-0002-1" />
         <module name="runningSum-0004-1480" />
         <module name="addTwoNumbers-0005-2" />
