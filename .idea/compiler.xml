@@ -13,6 +13,7 @@
         <module name="runningSum-0004-1480" />
         <module name="addTwoNumbers-0005-2" />
         <module name="sumOddLengthSubarrays-0006-1588" />
+        <module name="corpFlightBookings-0008-1109" />
       </profile>
     </annotationProcessing>
   </component>
