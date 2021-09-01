@@ -17,6 +17,7 @@
         <module>sumOddLengthSubarrays-0006-1588</module>
         <module>pickIndex-0007-528</module>
         <module>corpFlightBookings-0008-1109</module>
+        <module>compareVersion-0009-165</module>
     </modules>
 
     <properties>
