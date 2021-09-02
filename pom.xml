@@ -18,6 +18,8 @@
         <module>pickIndex-0007-528</module>
         <module>corpFlightBookings-0008-1109</module>
         <module>compareVersion-0009-165</module>
+        <module>getKthFromEnd-0010-jzoffer22</module>
+        <module>lengthOfLongestSubstring-0011-3</module>
     </modules>
 
     <properties>

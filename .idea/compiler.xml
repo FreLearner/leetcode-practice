@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="numRescueBoats-0001-881" />
+        <module name="lengthOfLongestSubstring-0011-3" />
         <module name="compareVersion-0009-165" />
         <module name="pickIndex-0007-528" />
         <module name="MedianFinder-0003-295" />
         <module name="twoSum-0002-1" />
+        <module name="getKthFromEnd-0010-jzoffer22" />
         <module name="runningSum-0004-1480" />
         <module name="addTwoNumbers-0005-2" />
         <module name="sumOddLengthSubarrays-0006-1588" />
