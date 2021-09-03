@@ -9,17 +9,18 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>numRescueBoats-0001-881</module>
-        <module>twoSum-0002-1</module>
-        <module>MedianFinder-0003-295</module>
-        <module>runningSum-0004-1480</module>
-        <module>addTwoNumbers-0005-2</module>
-        <module>sumOddLengthSubarrays-0006-1588</module>
-        <module>pickIndex-0007-528</module>
-        <module>corpFlightBookings-0008-1109</module>
-        <module>compareVersion-0009-165</module>
-        <module>getKthFromEnd-0010-jzoffer22</module>
-        <module>lengthOfLongestSubstring-0011-3</module>
+        <module>0001-numRescueBoats-881</module>
+        <module>0002-twoSum-1</module>
+        <module>0003-MedianFinder-295</module>
+        <module>0004-runningSum-1480</module>
+        <module>0005-addTwoNumbers-2</module>
+        <module>0006-sumOddLengthSubarrays-1588</module>
+        <module>0007-pickIndex-528</module>
+        <module>0008-corpFlightBookings-1109</module>
+        <module>0009-compareVersion-165</module>
+        <module>0010-getKthFromEnd-jzoffer22</module>
+        <module>0011-lengthOfLongestSubstring-3</module>
+        <module>0012-smallestK-mst17.14</module>
     </modules>
 
     <properties>
