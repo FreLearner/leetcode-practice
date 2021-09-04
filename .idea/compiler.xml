@@ -7,31 +7,21 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="0008-corpFlightBookings-1109" />
+        <module name="0012-smallestK-mst17.14" />
+        <module name="0007-pickIndex-528" />
+        <module name="0009-compareVersion-165" />
+        <module name="0003-MedianFinder-295" />
+        <module name="0002-twoSum-1" />
         <module name="0006-sumOddLengthSubarrays-1588" />
         <module name="0001-numRescueBoats-881" />
         <module name="0010-getKthFromEnd-jzoffer22" />
-        <module name="0012-smallestK-mst17.14" />
-        <module name="0007-pickIndex-528" />
+        <module name="0013-fib-jzoffer10-1" />
         <module name="0005-addTwoNumbers-2" />
         <module name="0011-lengthOfLongestSubstring-3" />
-        <module name="0009-compareVersion-165" />
-        <module name="0003-MedianFinder-295" />
         <module name="0004-runningSum-1480" />
-        <module name="0002-twoSum-1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="0001-numRescueBoats-881" target="8" />
-      <module name="0002-twoSum-1" target="8" />
-      <module name="0003-MedianFinder-295" target="8" />
-      <module name="0004-runningSum-1480" target="8" />
-      <module name="0005-addTwoNumbers-2" target="8" />
-      <module name="0006-sumOddLengthSubarrays-1588" target="8" />
-      <module name="0007-pickIndex-528" target="8" />
-      <module name="0008-corpFlightBookings-1109" target="8" />
-      <module name="0009-compareVersion-165" target="8" />
-      <module name="0010-getKthFromEnd-jzoffer22" target="8" />
-      <module name="0011-lengthOfLongestSubstring-3" target="8" />
       <module name="0012-smallestK-面试题17.14" target="8" />
     </bytecodeTargetLevel>
   </component>

@@ -21,6 +21,7 @@
         <module>0010-getKthFromEnd-jzoffer22</module>
         <module>0011-lengthOfLongestSubstring-3</module>
         <module>0012-smallestK-mst17.14</module>
+        <module>0013-fib-jzoffer10-1</module>
     </modules>
 
     <properties>
