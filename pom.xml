@@ -23,6 +23,7 @@
         <module>0012-smallestK-mst17.14</module>
         <module>0013-fib-jzoffer10-1</module>
         <module>0014-findMedianSortedArrays-4</module>
+        <module>0015-rand10-470</module>
     </modules>
 
     <properties>

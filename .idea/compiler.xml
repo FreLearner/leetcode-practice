@@ -20,6 +20,7 @@
         <module name="0005-addTwoNumbers-2" />
         <module name="0011-lengthOfLongestSubstring-3" />
         <module name="0004-runningSum-1480" />
+        <module name="0015-rand10-470" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
