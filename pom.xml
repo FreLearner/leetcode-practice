@@ -26,6 +26,7 @@
         <module>0015-rand10-470</module>
         <module>0016-search-704</module>
         <module>0017-longestPalindrome-5</module>
+        <module>0018-balancedStringSplit-1221</module>
     </modules>
 
     <properties>
