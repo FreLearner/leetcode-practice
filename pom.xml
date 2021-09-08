@@ -27,6 +27,7 @@
         <module>0016-search-704</module>
         <module>0017-longestPalindrome-5</module>
         <module>0018-balancedStringSplit-1221</module>
+        <module>0019-findMaximizedCapital-502</module>
     </modules>
 
     <properties>
