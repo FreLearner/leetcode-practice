@@ -28,6 +28,7 @@
         <module>0017-longestPalindrome-5</module>
         <module>0018-balancedStringSplit-1221</module>
         <module>0019-findMaximizedCapital-502</module>
+        <module>0020-fullJustify-68</module>
     </modules>
 
     <properties>
