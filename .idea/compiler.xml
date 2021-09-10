@@ -6,26 +6,38 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="0008-corpFlightBookings-1109" />
-        <module name="0014-findMedianSortedArrays-4" />
+        <module name="numRescueBoats-0001-881" />
         <module name="0012-smallestK-mst17.14" />
         <module name="0017-longestPalindrome-5" />
-        <module name="0018-balancedStringSplit-1221" />
-        <module name="0007-pickIndex-528" />
+        <module name="0021-chalkReplacer-1894" />
         <module name="0009-compareVersion-165" />
-        <module name="0003-MedianFinder-295" />
-        <module name="0020-fullJustify-68" />
         <module name="0002-twoSum-1" />
-        <module name="0016-search-704" />
         <module name="0006-sumOddLengthSubarrays-1588" />
-        <module name="0001-numRescueBoats-881" />
         <module name="0010-getKthFromEnd-jzoffer22" />
         <module name="0013-fib-jzoffer10-1" />
         <module name="0005-addTwoNumbers-2" />
-        <module name="0011-lengthOfLongestSubstring-3" />
+        <module name="MedianFinder-0003-295" />
         <module name="0004-runningSum-1480" />
+        <module name="corpFlightBookings-0008-1109" />
+        <module name="0008-corpFlightBookings-1109" />
+        <module name="0014-findMedianSortedArrays-4" />
+        <module name="0018-balancedStringSplit-1221" />
+        <module name="0007-pickIndex-528" />
+        <module name="0003-MedianFinder-295" />
+        <module name="0020-fullJustify-68" />
+        <module name="runningSum-0004-1480" />
+        <module name="0016-search-704" />
+        <module name="lengthOfLongestSubstring-0011-3" />
+        <module name="compareVersion-0009-165" />
+        <module name="0001-numRescueBoats-881" />
+        <module name="pickIndex-0007-528" />
+        <module name="0011-lengthOfLongestSubstring-3" />
+        <module name="twoSum-0002-1" />
+        <module name="getKthFromEnd-0010-jzoffer22" />
         <module name="0019-findMaximizedCapital-502" />
+        <module name="addTwoNumbers-0005-2" />
         <module name="0015-rand10-470" />
+        <module name="sumOddLengthSubarrays-0006-1588" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
