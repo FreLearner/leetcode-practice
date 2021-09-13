@@ -32,6 +32,7 @@
         <module>0021-chalkReplacer-1894</module>
         <module>0022-findIntegers-600</module>
         <module>0023-checkValidString-678</module>
+        <module>0024-numberOfBoomerangs-447</module>
     </modules>
 
     <properties>
