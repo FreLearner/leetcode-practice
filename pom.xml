@@ -33,6 +33,7 @@
         <module>0022-findIntegers-600</module>
         <module>0023-checkValidString-678</module>
         <module>0024-numberOfBoomerangs-447</module>
+        <module>0025-findLongestWord-524</module>
     </modules>
 
     <properties>
