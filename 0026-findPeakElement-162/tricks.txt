@@ -1,0 +1,8 @@
+每次i取
+如果 {nums}[i-1] < {nums}[i] > {nums}[i+1]nums[i−1]<nums[i]>nums[i+1]，那么位置 i 就是峰值位置，我们可以直接返回 i 作为答案；
+
+如果 {nums}[i-1] < {nums}[i] < {nums}[i+1]nums[i−1]<nums[i]<nums[i+1]，那么位置 i 处于上坡，我们需要往右走，即 i->i+1；
+
+如果 {nums}[i-1] > {nums}[i] > {nums}[i+1]nums[i−1]>nums[i]>nums[i+1]，那么位置 i 处于下坡，我们需要往左走，即 i->i−1；
+
+如果 {nums}[i-1] > {nums}[i] < {nums}[i+1]，那么位置 i 位于山谷，两侧都是上坡，我们规定一个方向上破，另外的一半丢弃，这样就得到类似二分的效率。
