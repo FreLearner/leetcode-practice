@@ -35,6 +35,7 @@
         <module>0024-numberOfBoomerangs-447</module>
         <module>0025-findLongestWord-524</module>
         <module>0026-findPeakElement-162</module>
+        <module>0027-findWords-212</module>
     </modules>
 
     <properties>

@@ -41,6 +41,7 @@
         <module name="getKthFromEnd-0010-jzoffer22" />
         <module name="0019-findMaximizedCapital-502" />
         <module name="addTwoNumbers-0005-2" />
+        <module name="0027-findWords-212" />
         <module name="0015-rand10-470" />
         <module name="sumOddLengthSubarrays-0006-1588" />
       </profile>
