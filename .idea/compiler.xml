@@ -34,6 +34,7 @@
         <module name="lengthOfLongestSubstring-0011-3" />
         <module name="compareVersion-0009-165" />
         <module name="0001-numRescueBoats-881" />
+        <module name="0028-isValidSudoku-36" />
         <module name="pickIndex-0007-528" />
         <module name="0024-numberOfBoomerangs-447" />
         <module name="0011-lengthOfLongestSubstring-3" />
