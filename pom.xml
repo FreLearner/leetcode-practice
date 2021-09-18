@@ -37,6 +37,7 @@
         <module>0026-findPeakElement-162</module>
         <module>0027-findWords-212</module>
         <module>0028-isValidSudoku-36</module>
+        <module>0029-canWinNim-292</module>
     </modules>
 
     <properties>
