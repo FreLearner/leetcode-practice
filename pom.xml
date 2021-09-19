@@ -39,6 +39,7 @@
         <module>0028-isValidSudoku-36</module>
         <module>0029-canWinNim-292</module>
         <module>0030-minSteps-650</module>
+        <module>0031-convert-6</module>
     </modules>
 
     <properties>
