@@ -40,6 +40,7 @@
         <module>0029-canWinNim-292</module>
         <module>0030-minSteps-650</module>
         <module>0031-convert-6</module>
+        <module>0032-findNumberOfLIS-673</module>
     </modules>
 
     <properties>
