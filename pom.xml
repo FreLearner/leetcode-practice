@@ -42,6 +42,7 @@
         <module>0031-convert-6</module>
         <module>0032-findNumberOfLIS-673</module>
         <module>0033-lengthOfLastWord-58</module>
+        <module>0034-splitListToParts-725</module>
     </modules>
 
     <properties>

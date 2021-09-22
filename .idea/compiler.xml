@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="numRescueBoats-0001-881" />
+        <module name="0034-splitListToParts-725" />
         <module name="0012-smallestK-mst17.14" />
         <module name="0017-longestPalindrome-5" />
         <module name="0029-canWinNim-292" />
