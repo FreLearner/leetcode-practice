@@ -43,6 +43,7 @@
         <module>0032-findNumberOfLIS-673</module>
         <module>0033-lengthOfLastWord-58</module>
         <module>0034-splitListToParts-725</module>
+        <module>0035-isPowerOfThree-326</module>
     </modules>
 
     <properties>
