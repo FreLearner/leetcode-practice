@@ -44,6 +44,7 @@
         <module>0033-lengthOfLastWord-58</module>
         <module>0034-splitListToParts-725</module>
         <module>0035-isPowerOfThree-326</module>
+        <module>0036-flatten-430</module>
     </modules>
 
     <properties>
