@@ -45,6 +45,7 @@
         <module>0034-splitListToParts-725</module>
         <module>0035-isPowerOfThree-326</module>
         <module>0036-flatten-430</module>
+        <module>0037-minDistance-583</module>
     </modules>
 
     <properties>
