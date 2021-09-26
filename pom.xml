@@ -46,6 +46,7 @@
         <module>0035-isPowerOfThree-326</module>
         <module>0036-flatten-430</module>
         <module>0037-minDistance-583</module>
+        <module>0038-getSum-371</module>
     </modules>
 
     <properties>
