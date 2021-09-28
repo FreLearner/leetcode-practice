@@ -49,6 +49,7 @@
         <module name="0016-search-704" />
         <module name="0022-findIntegers-600" />
         <module name="0030-minSteps-650" />
+        <module name="0040-pathSum-437" />
         <module name="0024-numberOfBoomerangs-447" />
         <module name="0011-lengthOfLongestSubstring-3" />
         <module name="twoSum-0002-1" />
