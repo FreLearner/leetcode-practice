@@ -49,6 +49,7 @@
         <module>0038-getSum-371</module>
         <module>0039-numDecodings-639</module>
         <module>0040-pathSum-437</module>
+        <module>0041-findMinMoves-517</module>
     </modules>
 
     <properties>
