@@ -50,6 +50,7 @@
         <module>0039-numDecodings-639</module>
         <module>0040-pathSum-437</module>
         <module>0041-findMinMoves-517</module>
+        <module>00042-computeArea-223</module>
     </modules>
 
     <properties>
