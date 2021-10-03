@@ -53,6 +53,7 @@
         <module>00042-computeArea-223</module>
         <module>0043-destCity-1436</module>
         <module>0044-toHex-405</module>
+        <module>0045-fractionToDecimal-166</module>
     </modules>
 
     <properties>

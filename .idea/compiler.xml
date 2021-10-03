@@ -32,6 +32,7 @@
         <module name="0032-findNumberOfLIS-673" />
         <module name="0009-compareVersion-165" />
         <module name="0002-twoSum-1" />
+        <module name="0045-fractionToDecimal-166" />
         <module name="0006-sumOddLengthSubarrays-1588" />
         <module name="0010-getKthFromEnd-jzoffer22" />
         <module name="0025-findLongestWord-524" />
