@@ -54,6 +54,7 @@
         <module>0043-destCity-1436</module>
         <module>0044-toHex-405</module>
         <module>0045-fractionToDecimal-166</module>
+        <module>0046-licenseKeyFormatting-482</module>
     </modules>
 
     <properties>
