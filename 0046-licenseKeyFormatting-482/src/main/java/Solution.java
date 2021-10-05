@@ -1,6 +1,6 @@
 public class Solution {
     public String licenseKeyFormatting(String s, int k) {
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         int count=0;
         for (int i = s.length()-1; i >-1 ; i--) {
             if(count==k){

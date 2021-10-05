@@ -55,6 +55,7 @@
         <module>0044-toHex-405</module>
         <module>0045-fractionToDecimal-166</module>
         <module>0046-licenseKeyFormatting-482</module>
+        <module>0047-PeekingIterator-284</module>
     </modules>
 
     <properties>
