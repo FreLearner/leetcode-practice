@@ -56,6 +56,7 @@
         <module name="0026-findPeakElement-162" />
         <module name="0016-search-704" />
         <module name="0022-findIntegers-600" />
+        <module name="0050-findRepeatedDnaSequences-187" />
         <module name="0030-minSteps-650" />
         <module name="0040-pathSum-437" />
         <module name="0024-numberOfBoomerangs-447" />

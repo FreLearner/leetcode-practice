@@ -58,6 +58,7 @@
         <module>0047-PeekingIterator-284</module>
         <module>0048-thirdMax-414</module>
         <module>0049-countSegments-424</module>
+        <module>0050-findRepeatedDnaSequences-187</module>
     </modules>
 
     <properties>
