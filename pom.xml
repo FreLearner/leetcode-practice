@@ -59,6 +59,9 @@
         <module>0048-thirdMax-414</module>
         <module>0049-countSegments-424</module>
         <module>0050-findRepeatedDnaSequences-187</module>
+        <module>0051-0100</module>
+        <module>0001-0050</module>
+        <module>0051-SummaryRanges-352</module>
     </modules>
 
     <properties>

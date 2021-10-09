@@ -6,71 +6,74 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="0029-canWinNim-292" />
-        <module name="0021-chalkReplacer-1894" />
-        <module name="0039-numDecodings-639" />
-        <module name="0049-countSegments-424" />
-        <module name="0031-convert-6" />
-        <module name="0048-thirdMax-414" />
-        <module name="0023-checkValidString-678" />
-        <module name="0013-fib-jzoffer10-1" />
-        <module name="0035-isPowerOfThree-326" />
-        <module name="0004-runningSum-1480" />
-        <module name="0014-findMedianSortedArrays-4" />
-        <module name="0038-getSum-371" />
-        <module name="0003-MedianFinder-295" />
-        <module name="0047-PeekingIterator-284" />
         <module name="lengthOfLongestSubstring-0011-3" />
         <module name="compareVersion-0009-165" />
-        <module name="0001-numRescueBoats-881" />
-        <module name="0028-isValidSudoku-36" />
         <module name="pickIndex-0007-528" />
-        <module name="0036-flatten-430" />
-        <module name="0027-findWords-212" />
         <module name="sumOddLengthSubarrays-0006-1588" />
         <module name="numRescueBoats-0001-881" />
-        <module name="0034-splitListToParts-725" />
         <module name="0012-smallestK-mst17.14" />
-        <module name="0017-longestPalindrome-5" />
-        <module name="0046-licenseKeyFormatting-482" />
-        <module name="0032-findNumberOfLIS-673" />
-        <module name="0009-compareVersion-165" />
-        <module name="0002-twoSum-1" />
-        <module name="0045-fractionToDecimal-166" />
-        <module name="0006-sumOddLengthSubarrays-1588" />
-        <module name="0010-getKthFromEnd-jzoffer22" />
-        <module name="0025-findLongestWord-524" />
-        <module name="0005-addTwoNumbers-2" />
         <module name="MedianFinder-0003-295" />
-        <module name="0033-lengthOfLastWord-58" />
-        <module name="00042-computeArea-223" />
-        <module name="0037-minDistance-583" />
+        <module name="0051-SummaryRanges-352" />
         <module name="corpFlightBookings-0008-1109" />
-        <module name="0041-findMinMoves-517" />
-        <module name="0008-corpFlightBookings-1109" />
-        <module name="0018-balancedStringSplit-1221" />
-        <module name="0007-pickIndex-528" />
-        <module name="0043-destCity-1436" />
-        <module name="0020-fullJustify-68" />
         <module name="runningSum-0004-1480" />
-        <module name="0026-findPeakElement-162" />
-        <module name="0016-search-704" />
-        <module name="0022-findIntegers-600" />
-        <module name="0050-findRepeatedDnaSequences-187" />
-        <module name="0030-minSteps-650" />
-        <module name="0040-pathSum-437" />
-        <module name="0024-numberOfBoomerangs-447" />
-        <module name="0044-toHex-405" />
-        <module name="0011-lengthOfLongestSubstring-3" />
         <module name="twoSum-0002-1" />
         <module name="getKthFromEnd-0010-jzoffer22" />
-        <module name="0019-findMaximizedCapital-502" />
         <module name="addTwoNumbers-0005-2" />
-        <module name="0015-rand10-470" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="0001-0050" target="8" />
+      <module name="0001-numRescueBoats-881" target="8" />
+      <module name="0002-twoSum-1" target="8" />
+      <module name="0003-MedianFinder-295" target="8" />
+      <module name="0004-runningSum-1480" target="8" />
+      <module name="00042-computeArea-223" target="8" />
+      <module name="0005-addTwoNumbers-2" target="8" />
+      <module name="0006-sumOddLengthSubarrays-1588" target="8" />
+      <module name="0007-pickIndex-528" target="8" />
+      <module name="0008-corpFlightBookings-1109" target="8" />
+      <module name="0009-compareVersion-165" target="8" />
+      <module name="0010-getKthFromEnd-jzoffer22" target="8" />
+      <module name="0011-lengthOfLongestSubstring-3" target="8" />
       <module name="0012-smallestK-面试题17.14" target="8" />
+      <module name="0013-fib-jzoffer10-1" target="8" />
+      <module name="0014-findMedianSortedArrays-4" target="8" />
+      <module name="0015-rand10-470" target="8" />
+      <module name="0016-search-704" target="8" />
+      <module name="0017-longestPalindrome-5" target="8" />
+      <module name="0018-balancedStringSplit-1221" target="8" />
+      <module name="0019-findMaximizedCapital-502" target="8" />
+      <module name="0020-fullJustify-68" target="8" />
+      <module name="0021-chalkReplacer-1894" target="8" />
+      <module name="0022-findIntegers-600" target="8" />
+      <module name="0023-checkValidString-678" target="8" />
+      <module name="0024-numberOfBoomerangs-447" target="8" />
+      <module name="0025-findLongestWord-524" target="8" />
+      <module name="0026-findPeakElement-162" target="8" />
+      <module name="0027-findWords-212" target="8" />
+      <module name="0028-isValidSudoku-36" target="8" />
+      <module name="0029-canWinNim-292" target="8" />
+      <module name="0030-minSteps-650" target="8" />
+      <module name="0031-convert-6" target="8" />
+      <module name="0032-findNumberOfLIS-673" target="8" />
+      <module name="0033-lengthOfLastWord-58" target="8" />
+      <module name="0034-splitListToParts-725" target="8" />
+      <module name="0035-isPowerOfThree-326" target="8" />
+      <module name="0036-flatten-430" target="8" />
+      <module name="0037-minDistance-583" target="8" />
+      <module name="0038-getSum-371" target="8" />
+      <module name="0039-numDecodings-639" target="8" />
+      <module name="0040-pathSum-437" target="8" />
+      <module name="0041-findMinMoves-517" target="8" />
+      <module name="0043-destCity-1436" target="8" />
+      <module name="0044-toHex-405" target="8" />
+      <module name="0045-fractionToDecimal-166" target="8" />
+      <module name="0046-licenseKeyFormatting-482" target="8" />
+      <module name="0047-PeekingIterator-284" target="8" />
+      <module name="0048-thirdMax-414" target="8" />
+      <module name="0049-countSegments-424" target="8" />
+      <module name="0050-findRepeatedDnaSequences-187" target="8" />
+      <module name="0051-0100" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
