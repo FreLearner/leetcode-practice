@@ -62,6 +62,8 @@
         <module>0051-0100</module>
         <module>0001-0050</module>
         <module>0051-SummaryRanges-352</module>
+        <module>0052-arrangeCoins-441</module>
+        <module>0053-numberToWords-273</module>
     </modules>
 
     <properties>
