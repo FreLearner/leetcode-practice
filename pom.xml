@@ -65,6 +65,7 @@
         <module>0052-arrangeCoins-441</module>
         <module>0053-numberToWords-273</module>
         <module>0054-divide-29</module>
+        <module>0055-fizzBuzz-412</module>
     </modules>
 
     <properties>
