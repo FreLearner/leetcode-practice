@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="numRescueBoats-0001-881" />
         <module name="0012-smallestK-mst17.14" />
+        <module name="0057-countAndSay-38" />
         <module name="0053-numberToWords-273" />
         <module name="0055-fizzBuzz-412" />
         <module name="runningSum-0004-1480" />
@@ -16,6 +17,7 @@
         <module name="0054-divide-29" />
         <module name="pickIndex-0007-528" />
         <module name="MedianFinder-0003-295" />
+        <module name="0056-peakIndexInMountainArray-069" />
         <module name="twoSum-0002-1" />
         <module name="getKthFromEnd-0010-jzoffer22" />
         <module name="0051-SummaryRanges-352" />

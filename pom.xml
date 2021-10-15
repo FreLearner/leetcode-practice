@@ -66,6 +66,8 @@
         <module>0053-numberToWords-273</module>
         <module>0054-divide-29</module>
         <module>0055-fizzBuzz-412</module>
+        <module>0056-peakIndexInMountainArray-069</module>
+        <module>0057-countAndSay-38</module>
     </modules>
 
     <properties>
