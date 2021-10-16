@@ -16,6 +16,7 @@
         <module name="compareVersion-0009-165" />
         <module name="0054-divide-29" />
         <module name="pickIndex-0007-528" />
+        <module name="0058-addOperators-282" />
         <module name="MedianFinder-0003-295" />
         <module name="0056-peakIndexInMountainArray-069" />
         <module name="twoSum-0002-1" />
