@@ -69,6 +69,7 @@
         <module>0056-peakIndexInMountainArray-069</module>
         <module>0057-countAndSay-38</module>
         <module>0058-addOperators-282</module>
+        <module>0059-kthSmallest-230</module>
     </modules>
 
     <properties>
