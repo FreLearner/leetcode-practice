@@ -70,6 +70,7 @@
         <module>0057-countAndSay-38</module>
         <module>0058-addOperators-282</module>
         <module>0059-kthSmallest-230</module>
+        <module>0060-476-findComplement</module>
     </modules>
 
     <properties>
