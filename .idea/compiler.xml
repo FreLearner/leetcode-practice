@@ -6,29 +6,19 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="0056-peakIndexInMountainArray-069" />
+        <module name="0012-smallestK-mst17.14" />
+        <module name="0057-countAndSay-38" />
+        <module name="0062-minMoves-453" />
         <module name="0053-numberToWords-273" />
+        <module name="0055-fizzBuzz-412" />
+        <module name="0059-kthSmallest-230" />
+        <module name="0054-divide-29" />
         <module name="0060-476-findComplement" />
-        <module name="twoSum-0002-1" />
-        <module name="lengthOfLongestSubstring-0011-3" />
-        <module name="0051-SummaryRanges-352" />
         <module name="0058-addOperators-282" />
         <module name="0061-WordDictionary-211" />
-        <module name="addTwoNumbers-0005-2" />
-        <module name="numRescueBoats-0001-881" />
-        <module name="sumOddLengthSubarrays-0006-1588" />
-        <module name="MedianFinder-0003-295" />
-        <module name="0054-divide-29" />
-        <module name="0059-kthSmallest-230" />
-        <module name="corpFlightBookings-0008-1109" />
-        <module name="compareVersion-0009-165" />
+        <module name="0056-peakIndexInMountainArray-069" />
+        <module name="0051-SummaryRanges-352" />
         <module name="0052-arrangeCoins-441" />
-        <module name="pickIndex-0007-528" />
-        <module name="0057-countAndSay-38" />
-        <module name="runningSum-0004-1480" />
-        <module name="0055-fizzBuzz-412" />
-        <module name="0012-smallestK-mst17.14" />
-        <module name="getKthFromEnd-0010-jzoffer22" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -84,6 +74,17 @@
       <module name="0049-countSegments-424" target="8" />
       <module name="0050-findRepeatedDnaSequences-187" target="8" />
       <module name="0051-0100" target="8" />
+      <module name="addTwoNumbers-0005-2" target="8" />
+      <module name="compareVersion-0009-165" target="8" />
+      <module name="corpFlightBookings-0008-1109" target="8" />
+      <module name="getKthFromEnd-0010-jzoffer22" target="8" />
+      <module name="lengthOfLongestSubstring-0011-3" target="8" />
+      <module name="MedianFinder-0003-295" target="8" />
+      <module name="numRescueBoats-0001-881" target="8" />
+      <module name="pickIndex-0007-528" target="8" />
+      <module name="runningSum-0004-1480" target="8" />
+      <module name="sumOddLengthSubarrays-0006-1588" target="8" />
+      <module name="twoSum-0002-1" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

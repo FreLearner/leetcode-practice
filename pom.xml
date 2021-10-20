@@ -72,6 +72,7 @@
         <module>0059-kthSmallest-230</module>
         <module>0060-476-findComplement</module>
         <module>0061-WordDictionary-211</module>
+        <module>0062-minMoves-453</module>
     </modules>
 
     <properties>
