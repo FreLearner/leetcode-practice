@@ -73,6 +73,9 @@
         <module>0060-476-findComplement</module>
         <module>0061-WordDictionary-211</module>
         <module>0062-minMoves-453</module>
+        <module>0063-plusOne-66</module>
+        <module>0064-majorityElement-229</module>
+        <module>0065-constructRectangle-492</module>
     </modules>
 
     <properties>

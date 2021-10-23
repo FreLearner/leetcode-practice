@@ -7,16 +7,19 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="0012-smallestK-mst17.14" />
+        <module name="0063-plusOne-66" />
         <module name="0057-countAndSay-38" />
         <module name="0062-minMoves-453" />
         <module name="0053-numberToWords-273" />
         <module name="0055-fizzBuzz-412" />
         <module name="0059-kthSmallest-230" />
+        <module name="0065-constructRectangle-492" />
         <module name="0054-divide-29" />
         <module name="0060-476-findComplement" />
         <module name="0058-addOperators-282" />
         <module name="0061-WordDictionary-211" />
         <module name="0056-peakIndexInMountainArray-069" />
+        <module name="0064-majorityElement-229" />
         <module name="0051-SummaryRanges-352" />
         <module name="0052-arrangeCoins-441" />
       </profile>
