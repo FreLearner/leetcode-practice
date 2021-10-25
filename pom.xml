@@ -78,6 +78,7 @@
         <module>0065-constructRectangle-492</module>
         <module>0051-0100</module>
         <module>0066-searchMatrix-240</module>
+        <module>0067-shoppingOffers-638</module>
     </modules>
 
     <properties>

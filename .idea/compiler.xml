@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="0067-shoppingOffers-638" />
         <module name="numRescueBoats-0001-881" />
         <module name="lengthOfLongestSubstring-0011-3" />
         <module name="getKthFromEnd-0010-jzoffer22" />
