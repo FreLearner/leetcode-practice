@@ -76,6 +76,8 @@
         <module>0063-plusOne-66</module>
         <module>0064-majorityElement-229</module>
         <module>0065-constructRectangle-492</module>
+        <module>0051-0100</module>
+        <module>0066-searchMatrix-240</module>
     </modules>
 
     <properties>
