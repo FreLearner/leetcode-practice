@@ -79,6 +79,7 @@
         <module>0051-0100</module>
         <module>0066-searchMatrix-240</module>
         <module>0067-shoppingOffers-638</module>
+        <module>0068-nextGreaterElement-496</module>
     </modules>
 
     <properties>
