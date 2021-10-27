@@ -81,6 +81,8 @@
         <module>0067-shoppingOffers-638</module>
         <module>0068-nextGreaterElement-496</module>
         <module>0069-reverse-7</module>
+        <module>0070-removeInvalidParentheses-301</module>
+        <module>0071-myAtoi-8</module>
     </modules>
 
     <properties>
