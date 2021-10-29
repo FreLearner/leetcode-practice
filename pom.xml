@@ -83,6 +83,10 @@
         <module>0069-reverse-7</module>
         <module>0070-removeInvalidParentheses-301</module>
         <module>0071-myAtoi-8</module>
+        <module>72-reorderedPowerOf2-869</module>
+        <module>0073-isPalindrome-9</module>
+        <module>0074-isSelfCrossing-335</module>
+        <module>0075-romanToInt-13</module>
     </modules>
 
     <properties>
